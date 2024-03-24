@@ -1,0 +1,7 @@
+C:\Tugas MATKUL S2\STRUKTUR DATA\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.csproj.AssemblyReference.cache
+C:\Tugas MATKUL S2\STRUKTUR DATA\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.csproj.CoreCompileInputs.cache
+C:\Tugas MATKUL S2\STRUKTUR DATA\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.exe.config
+C:\Tugas MATKUL S2\STRUKTUR DATA\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.exe
+C:\Tugas MATKUL S2\STRUKTUR DATA\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.pdb
+C:\Tugas MATKUL S2\STRUKTUR DATA\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.exe
+C:\Tugas MATKUL S2\STRUKTUR DATA\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.pdb
